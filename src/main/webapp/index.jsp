@@ -5,6 +5,7 @@
 <div style="border:1px solid black;">
 	This is a sample message.
 	The quick brown fox.asd
+	Pokemon Go!
 </div>
 </body>
 </html>
